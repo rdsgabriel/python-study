@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-semibold mb-6 text-center">Boca = Expert em Python</h1>
+      <h1 className="text-3xl font-semibold mb-6 text-center">Boca e Tiago = Expert em Python</h1>
       <BlogPosts initialPosts={allPostsData} />
 
       <h2 className='font-bold text-blue-600'>links:</h2>
